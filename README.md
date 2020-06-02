@@ -4,7 +4,7 @@
   <img src="/docs/media/sub.gif">
 </p>
 
-好好学习，天天向上
+好好学习, 天天向上
 Substrate is a next-generation framework for blockchain innovation 🚀.
 
 ## Trying it out
